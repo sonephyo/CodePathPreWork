@@ -22,7 +22,6 @@ Some ideas to improve the app are:
 
 <div>
     <a href="https://www.loom.com/share/ecce5ae1795343e6a6884205bf37951e">
-      <p>Simulator - iPhone 16 Plus - 12 January 2025 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/ecce5ae1795343e6a6884205bf37951e">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ecce5ae1795343e6a6884205bf37951e-0a013510df74dc9c-full-play.gif">
