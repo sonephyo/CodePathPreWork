@@ -1,25 +1,35 @@
-# Prework - *Name of App Here*
+# Prework - CodePathPreWork
 
-Submitted by: **Your Name Here**
+Submitted by: **Phone Pyae Sone Phyo**
 
-**Name of your app** is an app that... [TODO]
+**CodePathPreWork** is an app that... [TODO]
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [✅] Users are see a screen with three labels and a button
+- [✅] Tapping the button changes the screen color to a random color
+
+Some ideas to improve the app are:
+- Improve the UI by using different fonts/colors/background
+- Feel free to play around with other elements, such as image views, textfields, etc.
+- Implement a way to change the color of the text as well
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README.
+[Video Demo]](https://www.loom.com/share/ecce5ae1795343e6a6884205bf37951e?sid=86e5816f-3953-4ee3-9e6c-327b4869f27f) .
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+## App Brainstorming
 
-## App Brainstorming (Step 4)
+1) App: Telegram
+- Archiving, Pinning, Muting chats
+2) App: GuitarTuna
+- Notes Detection to play songs
+3) App: ChatGPT
+- Good UX design for chatting with a few clicks
 
 ## Notes
 
@@ -27,7 +37,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Phone Pyae Sone Phyo]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
