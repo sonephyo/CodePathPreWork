@@ -39,7 +39,7 @@ Some ideas to improve the app are:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Navigating through the UI of Xcode due to a new environment
 
 ## License
 
