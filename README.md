@@ -2,7 +2,7 @@
 
 Submitted by: **Phone Pyae Sone Phyo**
 
-**CodePathPreWork** is an app that... [TODO]
+**CodePathPreWork** is an app that changes background color when the button is pressed
 
 Time spent: **1** hours spent in total
 
